@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Avenir LT Std 35 Light";
+   src: url("fonts/AvenirLTStd-Light.woff") format("woff"), url("fonts/AvenirLTStd-Light.eot") format("embedded-opentype"), url("fonts/AvenirLTStd-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans SemiBold";
+   src: url("fonts/Open Sans SemiBold.woff") format("woff"), url("fonts/Open Sans SemiBold.eot") format("embedded-opentype"), url("fonts/Open Sans SemiBold.ttf") format("truetype"), url("fonts/Open Sans SemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}

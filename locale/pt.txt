@@ -1,0 +1,281 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2F5867B2_3781_E5BF_41A0_3A38F671CB7D.source = https://hbook.hsystem.com.br/Booking?companyId=5889f865c19a3b1600cb66fa&_gl=1*1bfvy6z*_gcl_aw*R0NMLjE3NDU1MDI3MTYuQ2p3S0NBand3cWZBQmhCY0Vpd0FaSmpDM3BDbGwzUGNvcE5IUUYwY0lpdUVDVkVWVUg2M2ROdjFzZ240WXJoQjBwOWRLVHJTTFlaZ2Zob0M2NTBRQXZEX0J3RQ..*_gcl_au*MTk5MDI3NDE5OC4xNzQ1MzI3NTg5*_ga*MTQ4NDMwNDA0Mi4xNzQ1MzI3NTg5*_ga_4R2VNB089R*MTc0NTc1NzQzMy4xMC4xLjE3NDU3NTc0MzUuNTguMC4w
+LinkBehaviour_7AE925C9_681F_4F5B_41B5_03C4F0416C12.source = https://hbook.hsystem.com.br/Booking?companyId=5889f865c19a3b1600cb66fa&_gl=1*1pbsuuq*_gcl_aw*R0NMLjE3NDU1MDI3MTYuQ2p3S0NBand3cWZBQmhCY0Vpd0FaSmpDM3BDbGwzUGNvcE5IUUYwY0lpdUVDVkVWVUg2M2ROdjFzZ240WXJoQjBwOWRLVHJTTFlaZ2Zob0M2NTBRQXZEX0J3RQ..*_gcl_au*MTk5MDI3NDE5OC4xNzQ1MzI3NTg5*_ga*MTQ4NDMwNDA0Mi4xNzQ1MzI3NTg5*_ga_4R2VNB089R*MTc0NTc1NzQzMy4xMC4xLjE3NDU3NTc0MzUuNTguMC4w
+LinkBehaviour_65251E05_7744_C747_4171_1DCA042B81DB.source = https://wa.me/5548991355079
+LinkBehaviour_530072EE_77CC_DCC5_41DD_D0C2B24A61EC.source = https://wa.me/5548991355079
+LinkBehaviour_7DDE4327_6811_C4C8_41D2_75F58332ECA0.source = https://www.facebook.com/riodorastroecoresort/
+LinkBehaviour_2E80528A_3782_5E6F_41C0_89687A88BD36.source = https://www.facebook.com/riodorastroecoresort/
+WebFrame_02298D6F_3636_3735_4193_8223E386FA9C_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1280.6350222784154!2d-49.556215591697566!3d-28.393946880387094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9521b07508736b49%3A0x534c377bf4a1f300!2sRio%20do%20Rastro%20Eco%20Resort!5e0!3m2!1spt-BR!2sbr!4v1745344100848!5m2!1spt-BR!2sbr
+WebFrame_2F2F4A74_3783_AEBB_41BE_02454F822594.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1280.6350222784154!2d-49.556215591697566!3d-28.393946880387094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9521b07508736b49%3A0x534c377bf4a1f300!2sRio%20do%20Rastro%20Eco%20Resort!5e0!3m2!1spt-BR!2sbr!4v1745344100848!5m2!1spt-BR!2sbr
+LinkBehaviour_7DDD2328_6811_C4D8_41D2_62890C955F05.source = https://www.instagram.com/riodorastroecoresort/
+LinkBehaviour_2FF6A4C1_3782_DBDD_41C2_F5705B77060B.source = https://www.instagram.com/riodorastroecoresort/
+LinkBehaviour_537DBAEB_77CC_4CC3_41D8_5AA23098C418.source = https://www.riodorastro.com.br/
+LinkBehaviour_656486CC_7744_44C5_41DC_82A2E1761B1E.source = https://www.riodorastro.com.br/
+WebFrame_02298D6F_3636_3735_4193_8223E386FA9C.url = https://www.riodorastro.com.br/
+LinkBehaviour_2FD273AA_3782_5DAF_41C1_5DC2E11CDB49.source = https://www.tripadvisor.com.br/Hotel_Review-g2572734-d1531803-Reviews-Rio_Do_Rastro_Eco_Resort-Bom_Jardim_da_Serra_State_of_Santa_Catarina.html
+LinkBehaviour_7DDD8328_6811_C4D8_41D2_0CF466DE0A4A.source = https://www.tripadvisor.com.br/Hotel_Review-g2572734-d1531803-Reviews-Rio_Do_Rastro_Eco_Resort-Bom_Jardim_da_Serra_State_of_Santa_Catarina.html
+
+## Media
+
+### Audio
+audiores_5DBCEC63_77C4_CBC3_41D7_A0AA93CC634F.mp3Url = media/audio_5E27728F_77C4_5F43_41DA_E8559F529E6E_pt.mp3
+audiores_5DB65D07_77C4_C542_41A7_A535314571D5.mp3Url = media/audio_5E8067E3_77C4_44C3_41D2_72692606EE2C_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_62B41E9C_73F0_6413_41DC_95096D9A693F.label = Acesso
+panorama_5660AA2F_7470_AC0E_41CA_1C0AFF36EC1E.label = Acesso
+panorama_6195C118_73F0_7C13_41D6_6384136DF0D2.label = Acesso Casarão
+panorama_62B437D6_73F0_641F_41C3_EB8F054C4838.label = Acesso Casarão
+panorama_52358F33_7450_6415_41C8_D76248AC8D4C.label = Acesso Chalés
+panorama_46A0C900_74D0_EDF3_41D4_C49A2A241580.label = Acesso Chalés
+panorama_56A29BCC_7450_6C73_41CE_412D11D26C6F.label = Acesso Chalés
+panorama_56495263_7471_BC35_41DA_95F012A3CB2F.label = Acesso Chalés
+panorama_56A25270_7450_5C13_41D0_E42EE464C1CE.label = Acesso Chalés
+panorama_56B65341_7470_DC75_41D5_D3E5188C6C7E.label = Acesso Chalés
+panorama_52E396B9_7433_E414_41C4_A72765A86469.label = Acesso Chalés
+panorama_510B3C14_7471_A413_41D5_3602D252A7F9.label = Acesso Chalés
+panorama_56A5B54C_7450_6472_41D8_2F85E655746A.label = Acesso Chalés
+panorama_56A248D3_7450_AC15_41D3_3B81CC5A7C7D.label = Acesso Chalés
+panorama_62B46C8B_73F0_A4F5_4189_0F37DA159791.label = Acesso Guest House
+panorama_62B394FB_73F0_A414_41D3_87D6622C64C5.label = Acesso Guest House
+panorama_3AB5CDA3_7450_E436_41D0_4EF50D80DC46.label = Balanço do Infinito
+panorama_66410C53_73F0_6415_4189_140689E285B5.label = Boutique Rio do Rastro
+panorama_46994E95_74D0_A412_41DB_12D245D6C039.label = Chalé da Mata
+panorama_4126F7D9_74D0_A415_41C5_11E32B896CBA.label = Chalé da Mata
+panorama_4698F4D4_74D0_6413_41B3_727CA0983158.label = Chalé da Mata
+panorama_56589EA8_7450_A433_41B8_8EFF8C2ACAFB.label = Chalé do Campo
+panorama_52ECE85D_7450_AC0D_41CD_4DC1F97E8EC4.label = Chalé do Campo
+panorama_5E81D2C8_74D0_FC72_41DC_54B2590657BB.label = Chalé do Lago
+panorama_446BCC3D_74D0_E40D_41D3_DEBB9029841A.label = Chalé do Lago
+panorama_2D6EA082_7450_FCF7_41DA_322623EDFFEB.label = Cânion
+panorama_664AACD9_73F0_6415_41A8_6AD41F2E31BF.label = Deck Lounge
+panorama_664AE6FC_73F0_6413_41C6_256EF7F6E10B.label = Deck Lounge
+panorama_64FDC0E5_73F0_5C3D_41D3_4F8FEF53596D.label = Deck Lounge
+panorama_55E549DE_7433_EC0F_41D2_C9C87C2C2E27.label = Entrada
+panorama_55E533AC_7433_DC32_41D1_4CBD867FD111.label = Entrada
+panorama_7DCB9698_73DF_A413_41DB_F39B2704FBC6.label = Entrada Restaurante
+panorama_525DAE1F_7430_A40D_41CF_E9F0AFABB9C5.label = Estrada de Acesso
+panorama_56E31D65_7433_A43D_41D3_F38F4810C237.label = Estrada de Acesso
+panorama_664AD8A2_73F0_6C37_41B0_FA47D24EE04D.label = Fitness Place
+panorama_627FB37A_73F0_DC16_41C0_B30A8A85F45F.label = Guest House
+panorama_606BDBE6_73F0_EC3F_41DC_76C3B327398C.label = Guest House
+panorama_627EC23C_73F0_FC13_419A_9255BF692C64.label = Guest House
+panorama_627F2DC1_73F0_E475_41DC_768C21848BF8.label = Guest House
+panorama_627FE7E4_73F0_E433_41D7_AADC495C11D6.label = Guest House
+panorama_26AE1233_7450_7C15_41D3_1DE140421E53.label = Heliponto
+panorama_5CE6F03E_7433_DC0F_41D7_FAD62002A8A4.label = Lagoa
+panorama_468948BC_74F3_AC13_41CB_DE51A8A65DED.label = Mirante dos Namorados
+panorama_402D91EE_74F3_BC0F_41D6_F5CB8A626689.label = Nascente
+panorama_4689BF51_74F3_A415_41D7_65475EE111CC.label = Pesca e Canoagem
+panorama_494F1492_74F1_A417_41D2_5D52DC36A962.label = Pesca e Canoagem
+panorama_6641E0AB_73F0_5C35_41D5_A7948936B236.label = Piscina Aquecida Externa
+panorama_65531AA5_73F7_AC3D_41CF_831C3CFF8EE8.label = Piscina Aquecida Interna
+panorama_4B261577_74F0_A41D_41D8_0B7348CF7C02.label = Ponte Restaurante
+panorama_523A196D_7430_6C0D_41D0_874C7D1E3B73.label = Ponte dos Namorados
+panorama_60A2DFA8_73DF_A433_41D0_D079E45C347C.label = Praça das Bandeiras
+panorama_664B62B6_73F0_7C1F_41C5_9405A3E605CC.label = Recepção
+panorama_4F4C481C_74F0_6C13_41D0_755ACF16B6FF.label = Restaurante
+panorama_4F4C3B40_74F0_6C73_41A4_CFCB7B65BBB6.label = Restaurante
+panorama_30819A7A_74F0_AC16_41B8_0F918709CAA1.label = Restaurante
+panorama_4F4C4E8F_74F0_640D_41A5_E942A6ACAC39.label = Restaurante
+panorama_4F4AD199_74F0_5C15_41DA_15E2162383DE.label = Restaurante
+panorama_4F4C64DC_74F0_6413_41C0_6182D0C9A573.label = Restaurante
+panorama_6640D677_73F0_641D_41D3_1E7C08BB6169.label = Salão de Jogos
+panorama_3AA756EE_7450_E40F_41D5_1729F2F6D2D3.label = Vista Mirante
+video_418ED77A_5EC5_0BF2_418A_4AB5F579549C.label = file
+
+### Video
+videolevel_58A1D3CE_77FC_BCC5_41C7_4B7024306A69.posterURL = media/video_418ED77A_5EC5_0BF2_418A_4AB5F579549C_poster_pt.jpg
+videolevel_58A1D3CE_77FC_BCC5_41C7_4B7024306A69.url = media/video_418ED77A_5EC5_0BF2_418A_4AB5F579549C_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_3B22EBA3_35F6_332D_41B1_6E552D561354_mobile.label = ACOMODAÇÕES
+Button_3B22EBA3_35F6_332D_41B1_6E552D561354.label = ACOMODAÇÕES
+Button_3B2FA194_35F3_CFEB_41C8_2FCBE0DA7314_mobile.label = GALERIA
+Button_3B2FA194_35F3_CFEB_41C8_2FCBE0DA7314.label = GALERIA
+Button_4CEDA0B9_5E47_0571_41CD_98AC3252564A_mobile.label = LOCALIZAÇÃO
+Button_4CEDA0B9_5E47_0571_41CD_98AC3252564A.label = LOCALIZAÇÃO
+Button_2DA9FD3E_3595_405A_4186_45143FB02434.label = MENU
+Button_22EAEFBF_35F2_C059_414E_ECCB544C355A_mobile.label = MENU
+Button_22EAEFBF_35F2_C059_414E_ECCB544C355A.label = MENU
+Button_2DA9FD3E_3595_405A_4186_45143FB02434_mobile.label = MENU
+Button_3AB329CE_35F2_5F77_41B3_54EB32D4C095_mobile.label = O RESORT
+Button_3AB329CE_35F2_5F77_41B3_54EB32D4C095.label = O RESORT
+Button_28520A94_35AD_4028_4190_94D87C5A68E4_mobile.label = RESERVAR
+Button_28520A94_35AD_4028_4190_94D87C5A68E4.label = RESERVAR
+Button_3AA8111C_35F2_4F1B_41C9_4EC32C5FC6E2.label = RESTAURANTE
+Button_3AA8111C_35F2_4F1B_41C9_4EC32C5FC6E2_mobile.label = RESTAURANTE
+Button_3B2D11CB_35F2_CF7D_41C1_7115D03537FC_mobile.label = VIDEO
+Button_3B2D11CB_35F2_CF7D_41C1_7115D03537FC.label = VIDEO
+Button_24045541_35FF_848D_41AE_9944FC889BD7.label = VISTA INICIAL
+Button_24045541_35FF_848D_41AE_9944FC889BD7_mobile.label = VISTA INICIAL
+
+### Image
+Image_145A73FB_3632_531D_419D_689D34D19097_mobile.url = skin/Image_145A73FB_3632_531D_419D_689D34D19097_mobile_pt.png
+Image_145A73FB_3632_531D_419D_689D34D19097.url = skin/Image_145A73FB_3632_531D_419D_689D34D19097_pt.png
+Image_1520FB94_3612_53EB_417A_46919DF2EB5C_mobile.url = skin/Image_1520FB94_3612_53EB_417A_46919DF2EB5C_mobile_pt.png
+Image_1520FB94_3612_53EB_417A_46919DF2EB5C.url = skin/Image_1520FB94_3612_53EB_417A_46919DF2EB5C_pt.png
+Image_227AAA17_7437_AC1D_41AE_902C88392B5F.url = skin/Image_227AAA17_7437_AC1D_41AE_902C88392B5F_pt.jpg
+Image_2294CC5E_7430_E40F_41DD_4925E6709E50.url = skin/Image_2294CC5E_7430_E40F_41DD_4925E6709E50_pt.jpg
+Image_22FD19DF_7431_EC0D_41CB_45022FF8C642.url = skin/Image_22FD19DF_7431_EC0D_41CB_45022FF8C642_pt.jpg
+Image_23023B01_7430_ADF5_41C8_00FDA24D3788.url = skin/Image_23023B01_7430_ADF5_41C8_00FDA24D3788_pt.jpg
+Image_23415E1C_35F5_405F_41C4_F25A1057A1E5_mobile.url = skin/Image_23415E1C_35F5_405F_41C4_F25A1057A1E5_mobile_pt.png
+Image_23415E1C_35F5_405F_41C4_F25A1057A1E5.url = skin/Image_23415E1C_35F5_405F_41C4_F25A1057A1E5_pt.png
+Image_26B1B64C_35E3_849B_41C4_F434C203344F_mobile.url = skin/Image_26B1B64C_35E3_849B_41C4_F434C203344F_mobile_pt.png
+Image_26B1B64C_35E3_849B_41C4_F434C203344F.url = skin/Image_26B1B64C_35E3_849B_41C4_F434C203344F_pt.png
+Image_2C4CC797_7430_A41D_41C1_5144CAE93CB1.url = skin/Image_2C4CC797_7430_A41D_41C1_5144CAE93CB1_pt.jpg
+Image_2D1F8BCF_7430_EC0D_41D9_EB3A537EF6CA.url = skin/Image_2D1F8BCF_7430_EC0D_41D9_EB3A537EF6CA_pt.jpg
+Image_2D2CFA0E_7430_6C0F_41D6_E84AD44E8E14.url = skin/Image_2D2CFA0E_7430_6C0F_41D6_E84AD44E8E14_pt.jpg
+Image_2D523ABF_7431_AC0E_41C0_FBE03BA83512.url = skin/Image_2D523ABF_7431_AC0E_41C0_FBE03BA83512_pt.jpg
+Image_2D60A31E_7431_BC0F_41BD_99041D0CCE11.url = skin/Image_2D60A31E_7431_BC0F_41BD_99041D0CCE11_pt.jpg
+Image_2DEE76C6_7433_A47F_41D6_AC30CB03D1F6.url = skin/Image_2DEE76C6_7433_A47F_41D6_AC30CB03D1F6_pt.jpg
+Image_2E1761E8_74D0_5C33_41BA_4D3AD44F4B8B.url = skin/Image_2E1761E8_74D0_5C33_41BA_4D3AD44F4B8B_pt.jpg
+Image_2F5ABC5F_7471_A40D_41D4_8159EE262CAB.url = skin/Image_2F5ABC5F_7471_A40D_41D4_8159EE262CAB_pt.jpg
+Image_2F5B8C61_7471_A435_41CE_1A182041C4E3.url = skin/Image_2F5B8C61_7471_A435_41CE_1A182041C4E3_pt.jpg
+Image_2F5BCC63_7471_A435_41CB_68CCBA2B711E.url = skin/Image_2F5BCC63_7471_A435_41CB_68CCBA2B711E_pt.jpg
+Image_2F5EDC58_7471_A413_41D9_C1ED7E3AC9A0.url = skin/Image_2F5EDC58_7471_A413_41D9_C1ED7E3AC9A0_pt.jpg
+Image_2FC858F6_7430_AC1F_41C4_E64E9B5C07B9.url = skin/Image_2FC858F6_7430_AC1F_41C4_E64E9B5C07B9_pt.jpg
+Image_2FED7EF6_7433_E41F_4191_226C4F021EF1.url = skin/Image_2FED7EF6_7433_E41F_4191_226C4F021EF1_pt.jpg
+Image_42CE0DF8_5ECB_1EFE_41CC_92C1BC927776_mobile.url = skin/Image_42CE0DF8_5ECB_1EFE_41CC_92C1BC927776_mobile_pt.png
+Image_42CE0DF8_5ECB_1EFE_41CC_92C1BC927776.url = skin/Image_42CE0DF8_5ECB_1EFE_41CC_92C1BC927776_pt.png
+Image_4553AF95_5ECD_3B36_41CF_538E67E9817C_mobile.url = skin/Image_4553AF95_5ECD_3B36_41CF_538E67E9817C_mobile_pt.png
+Image_4553AF95_5ECD_3B36_41CF_538E67E9817C.url = skin/Image_4553AF95_5ECD_3B36_41CF_538E67E9817C_pt.png
+Image_45C72D62_5E4B_7F13_41D2_28F630F49CDA_mobile.url = skin/Image_45C72D62_5E4B_7F13_41D2_28F630F49CDA_mobile_pt.gif
+Image_45C72D62_5E4B_7F13_41D2_28F630F49CDA.url = skin/Image_45C72D62_5E4B_7F13_41D2_28F630F49CDA_pt.gif
+Image_48B5692D_5E5B_0711_41D5_288673F41AC0.url = skin/Image_48B5692D_5E5B_0711_41D5_288673F41AC0_pt.png
+Image_6590EB5A_773C_4DCD_41BA_E5CF8217DA94.url = skin/Image_6590EB5A_773C_4DCD_41BA_E5CF8217DA94_pt.jpg
+Image_6804C993_774C_4D43_41CB_FD99AE0B8C71_mobile.url = skin/Image_6804C993_774C_4D43_41CB_FD99AE0B8C71_mobile_pt.jpg
+Image_6917731C_774C_DD45_41DB_E1D2EA3CC191_mobile.url = skin/Image_6917731C_774C_DD45_41DB_E1D2EA3CC191_mobile_pt.jpg
+Image_69294CBB_774D_CB43_41DA_8835EEE341BB_mobile.url = skin/Image_69294CBB_774D_CB43_41DA_8835EEE341BB_mobile_pt.jpg
+Image_6969757B_774C_C5C3_41D9_210E871C0D8A_mobile.url = skin/Image_6969757B_774C_C5C3_41D9_210E871C0D8A_mobile_pt.jpg
+Image_696AAF8C_774F_C545_41D1_5F4EE0DEF8D9_mobile.url = skin/Image_696AAF8C_774F_C545_41D1_5F4EE0DEF8D9_mobile_pt.jpg
+Image_6A2160B3_7744_5B43_41D6_96DBE5659885_mobile.url = skin/Image_6A2160B3_7744_5B43_41D6_96DBE5659885_mobile_pt.jpg
+Image_6A25E0B4_7744_5B45_41D4_44217D3A961E_mobile.url = skin/Image_6A25E0B4_7744_5B45_41D4_44217D3A961E_mobile_pt.jpg
+Image_6A2A00B7_7744_5B43_41DA_41CC8DDD6541_mobile.url = skin/Image_6A2A00B7_7744_5B43_41DA_41CC8DDD6541_mobile_pt.jpg
+Image_6A2BF0B6_7744_5B45_41BF_6EEE73649EBB_mobile.url = skin/Image_6A2BF0B6_7744_5B45_41BF_6EEE73649EBB_mobile_pt.jpg
+Image_6A94A52B_774C_4543_41C7_D4E595862346_mobile.url = skin/Image_6A94A52B_774C_4543_41C7_D4E595862346_mobile_pt.jpg
+Image_6AA3E13C_774C_5D45_41A3_1BC827BA8710_mobile.url = skin/Image_6AA3E13C_774C_5D45_41A3_1BC827BA8710_mobile_pt.jpg
+Image_6AA6D5C3_774C_44C3_41CC_4D23F4C4C1FB_mobile.url = skin/Image_6AA6D5C3_774C_44C3_41CC_4D23F4C4C1FB_mobile_pt.jpg
+Image_6AAF8CB4_774F_CB45_41D1_FA9E5590B1CB_mobile.url = skin/Image_6AAF8CB4_774F_CB45_41D1_FA9E5590B1CB_mobile_pt.jpg
+Image_6AB269C3_774C_CCC3_41D6_71821C37D4BB_mobile.url = skin/Image_6AB269C3_774C_CCC3_41D6_71821C37D4BB_mobile_pt.jpg
+Image_6AC141A3_774D_DD43_41DC_C4F290338B2B_mobile.url = skin/Image_6AC141A3_774D_DD43_41DC_C4F290338B2B_mobile_pt.jpg
+Image_6ACD6A54_774C_CFC5_41D4_81DB273BFB1B_mobile.url = skin/Image_6ACD6A54_774C_CFC5_41D4_81DB273BFB1B_mobile_pt.jpg
+Image_6AD1CA8B_774C_4F43_41DB_2B1D210B128F_mobile.url = skin/Image_6AD1CA8B_774C_4F43_41DB_2B1D210B128F_mobile_pt.jpg
+
+### Label
+Label_7D0597CA_363E_337C_41A8_CDAD46E83FF9.text = {{TITLE}}
+Label_7D0597CA_363E_337C_41A8_CDAD46E83FF9_mobile.text = {{TITLE}}
+
+### Multiline Text
+HTMLText_4552FF97_5ECD_3B31_41D0_6774B3CFAC57.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:12px;font-family:'Avenir LT Std 35 Light';">Confortável Chalé 48m²,  sendo um quarto de casal com cama King size que pode ser separada em duas camas de solteiro se necessário. </SPAN></SPAN></DIV></div>
+HTMLText_152FCB96_3612_5317_41C7_5AADD3AB92BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:12px;font-family:'Avenir LT Std 35 Light';">Confortável Chalé 54m², com dois quartos, sendo um quarto de casal com cama King size que pode ser separada em duas camas de solteiro se necessário. O segundo quarto conta com uma cama de solteiro.</SPAN></SPAN></DIV></div>
+HTMLText_42CF3DF9_5ECB_1EF1_41D0_5D33893F7123.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:12px;font-family:'Avenir LT Std 35 Light';">Confortável apartamento de 60m², com um quarto de casal com cama King Size que pode ser separada em duas de solteiro se necessário, na sala de estar ainda pode ser montada uma cama de casal ou duas de solteiro.</SPAN></SPAN></DIV></div>
+HTMLText_4552FF97_5ECD_3B31_41D0_6774B3CFAC57_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';">Confortável Chalé 48m²,  sendo um quarto de casal com cama King size que pode ser separada em duas camas de solteiro se necessário. </SPAN></SPAN></DIV></div>
+HTMLText_152FCB96_3612_5317_41C7_5AADD3AB92BF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';">Confortável Chalé 54m², com dois quartos, sendo um quarto de casal com cama King size que pode ser separada em duas camas de solteiro se necessário. O segundo quarto conta com uma cama de solteiro.</SPAN></SPAN></DIV></div>
+HTMLText_42CF3DF9_5ECB_1EF1_41D0_5D33893F7123_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';">Confortável apartamento de 60m², com um quarto de casal com cama King Size que pode ser separada em duas de solteiro se necessário, na sala de estar ainda pode ser montada uma cama de casal ou duas de solteiro.</SPAN></SPAN></DIV></div>
+HTMLText_15C17743_3612_536C_4192_74451F696AFC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:12px;font-family:'Avenir LT Std 35 Light';">Confortável Chalé 54m², com dois quartos, sendo um quarto de casal com cama King Size que pode ser separada em duas camas de solteiro se necessário. O segundo quarto conta com uma cama de solteiro.</SPAN></SPAN></DIV></div>
+HTMLText_1529C6ED_3616_7534_41B9_B4F27973F342.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_45513F98_5ECD_3B3F_41D2_3A0C0C4C25ED.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_152F3B97_3612_5315_41C5_9FB03A38DF61.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2E1421EA_74D0_5C37_41CE_DDD792BA4A9E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_42CF5DF9_5ECB_1EF1_41D5_7848B56DD014.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2F5B1C63_7471_A435_41D3_B53E4B155F22.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2F598C5E_7471_A40F_41D5_FC6AF52714A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_22F899E0_7431_EC33_41D0_D074AFF07879.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2300BB01_7430_ADF5_41DC_C4B0440F25FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2FEC7EF8_7433_E413_41D7_6474323EA127.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_65800B67_773C_4DC3_41C7_BF3E80A790FC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2D1C2BD0_7430_EC13_41BA_03E49DFC03C7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2FD738F8_7430_AC13_41D5_5D6195CAB167.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2D61C31F_7431_BC0D_4187_52AA77E1D489.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2F5A3C60_7471_A433_41C1_10AD251A1E8E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2D506AC0_7431_AC73_41C0_849AB9B5ECAC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2FA4CC62_7471_A437_41D0_EAE815E97DCB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_22952C60_7430_E432_41D6_B20C176A98A5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2DE176C7_7433_A47D_41AC_7F5B26E05530.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_227FAA19_7437_AC15_41B5_99C83F90C13C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2C4AC797_7430_A41D_41CC_7676C84C33F8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2D23AA10_7430_6C13_41A9_D45D5461270D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:14px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_2E14F1E9_74D0_5C35_41D1_B55143E907C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Balanço do Infinito</B></SPAN></SPAN></DIV></div>
+HTMLText_2DE186C7_7433_A47D_41C2_F2875A84A834.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Boutique</B></SPAN></SPAN></DIV></div>
+HTMLText_2C4AF797_7430_A41D_41D7_4625FE725D10.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Canion</B></SPAN></SPAN></DIV></div>
+HTMLText_2F5B3C61_7471_A435_41C1_034AEB798E5A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Canoa</B></SPAN></SPAN></DIV></div>
+HTMLText_4552BF97_5ECD_3B32_41C7_76E044074B3D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Chalé da Mata</B></SPAN></SPAN></DIV></div>
+HTMLText_1571F0D1_360E_4D6C_41A5_A800B1D6A868.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Chalé do Campo</B></SPAN></SPAN></DIV></div>
+HTMLText_152E4B95_3612_5315_41BB_6FE39B41F125.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Chalé do Lago</B></SPAN></SPAN></DIV></div>
+HTMLText_2F5B7C63_7471_A435_41CF_849A48A1AE4F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Deck Lounge</B></SPAN></SPAN></DIV></div>
+HTMLText_65826B5E_773C_4DC5_41D8_53A2D0437208.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Fachada</B></SPAN></SPAN></DIV></div>
+HTMLText_2F584C5E_7471_A40F_41D0_132C57198432.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Fachada</B></SPAN></SPAN></DIV></div>
+HTMLText_227FFA19_7437_AC15_41D1_742C82BDC86C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Fitness Place</B></SPAN></SPAN></DIV></div>
+HTMLText_42CFEDF9_5ECB_1EFE_41D6_01EF9CBA187B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Guest House</B></SPAN></SPAN></DIV></div>
+HTMLText_2FD768F7_7430_AC1D_41C8_6C89931F461F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Heliponto</B></SPAN></SPAN></DIV></div>
+HTMLText_2F5A9C5F_7471_A40D_41CD_6C1045B6951D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Lagoa</B></SPAN></SPAN></DIV></div>
+HTMLText_2D61F31F_7431_BC0D_41B0_8D1F1A79D61B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Mirante</B></SPAN></SPAN></DIV></div>
+HTMLText_22951C60_7430_E432_41B5_487F64C4ECF7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Nascente</B></SPAN></SPAN></DIV></div>
+HTMLText_22F8C9E0_7431_EC33_41C8_568E91E11A52.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Piscina Externa</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Aquecida</B></SPAN></SPAN></DIV></div>
+HTMLText_2FEC8EF8_7433_E413_41B4_50BDAB97F796.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Piscina Interna</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Aquecida</B></SPAN></SPAN></DIV></div>
+HTMLText_2D503ABF_7431_AC0D_41D5_112A6E861C39.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Ponte dos Namorados</B></SPAN></SPAN></DIV></div>
+HTMLText_2D1C7BD0_7430_EC13_41D9_9B244E9D52E0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Ponte</B></SPAN></SPAN></DIV></div>
+HTMLText_2300CB01_7430_ADF5_419A_AF82635F5705.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Recepção</B></SPAN></SPAN></DIV></div>
+HTMLText_2D2C7A0F_7430_6C0D_41DA_446241A8D526.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:21px;font-family:'Avenir LT Std 35 Light';"><B>Salão de Jogos</B></SPAN></SPAN></DIV></div>
+HTMLText_6977657B_774C_C5C3_4190_ED564734D163_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Balanço do Infinito</B></SPAN></SPAN></DIV></div>
+HTMLText_6ABC69C3_774C_CCC3_41D7_9E2512138B01_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Boutique</B></SPAN></SPAN></DIV></div>
+HTMLText_6AA565C3_774C_44C3_41D8_409AEAFD10E3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Canion</B></SPAN></SPAN></DIV></div>
+HTMLText_68057993_774C_4D43_41D9_6F2544AC4117_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Canoa</B></SPAN></SPAN></DIV></div>
+HTMLText_4552BF97_5ECD_3B32_41C7_76E044074B3D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Chalé da Mata</B></SPAN></SPAN></DIV></div>
+HTMLText_1571F0D1_360E_4D6C_41A5_A800B1D6A868_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Chalé do Campo</B></SPAN></SPAN></DIV></div>
+HTMLText_152E4B95_3612_5315_41BB_6FE39B41F125_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Chalé do Lago</B></SPAN></SPAN></DIV></div>
+HTMLText_6ACF6A54_774C_CFC5_41DD_B63A34CEE660_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Deck Lounge</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2760B3_7744_5B43_41C8_D82D909DBAF3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Fachada</B></SPAN></SPAN></DIV></div>
+HTMLText_6AC3F1A3_774D_DD43_41D3_0F0A9A8E4EAF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Fitness Place</B></SPAN></SPAN></DIV></div>
+HTMLText_42CFEDF9_5ECB_1EFE_41D6_01EF9CBA187B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Guest House</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2BD0B6_7744_5B45_41DC_651A02BF8FE3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Heliponto</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2AA0B7_7744_5B43_41C7_A58427401D55_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Lagoa</B></SPAN></SPAN></DIV></div>
+HTMLText_6A93152B_774C_4543_41D0_003C72CEFE68_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Mirante</B></SPAN></SPAN></DIV></div>
+HTMLText_6AD3CA8B_774C_4F43_41D3_F627494C4FDE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Nascente</B></SPAN></SPAN></DIV></div>
+HTMLText_6911731C_774C_DD45_41C3_368C1A5D7667_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Piscina Externa Aquecida</B></SPAN></SPAN></DIV></div>
+HTMLText_6AAD913D_774C_5D47_41D0_FB4565B4CD0A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Piscina Interna Aquecida</B></SPAN></SPAN></DIV></div>
+HTMLText_6AADDCB5_774F_CB47_41DD_89FCB47FF64E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Ponte dos Namorados</B></SPAN></SPAN></DIV></div>
+HTMLText_6968BF8D_774F_C547_41D9_97FD1830E9AC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Ponte</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2450B5_7744_5B47_41D2_35C675FA43D1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Recepção</B></SPAN></SPAN></DIV></div>
+HTMLText_692B7CBB_774D_CB42_41C5_D0949260B9E3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#698d28;font-size:12px;font-family:'Avenir LT Std 35 Light';"><B>Salão de Jogos</B></SPAN></SPAN></DIV></div>
+HTMLText_6911431C_774C_DD45_41D0_4C55FC9CB195_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6ABDB9C3_774C_CCC3_41BD_8DAD07A98913_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6AC89A54_774C_CFC5_41D4_862373728E0F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_692B8CBC_774D_CB45_41C1_7659923CEC5A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_68052993_774C_4D43_41D0_2CC33783E91C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6AC201A3_774D_DD43_41D0_0593B22D3634_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_45513F98_5ECD_3B3F_41D2_3A0C0C4C25ED_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6AD3FA8B_774C_4F43_41D2_F2E5123C77CC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2930B8_7744_5B4D_41AD_364F0E8064DD_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_1529C6ED_3616_7534_41B9_B4F27973F342_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2B80B6_7744_5B45_41D2_B06672DC0182_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6AADA13D_774C_5D47_41CB_4AF5C1A5B2F0_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2490B5_7744_5B47_41CB_8CACF41BCB49_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6968EF8D_774F_C547_41C6_414587759CA1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6A2710B3_7744_5B43_41D1_5C700AE557E5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6AAA4CB5_774F_CB47_41D6_A8A5CB71DBB6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_42CF5DF9_5ECB_1EF1_41D5_7848B56DD014_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6A93F52B_774C_4543_41D8_CC50CE622EC5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_152F3B97_3612_5315_41C5_9FB03A38DF61_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6AA515C3_774C_44C3_413A_F8E8391691FA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_6974B57C_774C_C5C5_4189_6EA9BA958B8E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';"><B>&gt; VER EM 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_15C17743_3612_536C_4192_74451F696AFC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#53514f;font-size:7px;font-family:'Avenir LT Std 35 Light';">Confortável Chalé 54m², com dois quartos, sendo um quarto de casal com cama King Size que pode ser separada em duas camas de solteiro se necessário. O segundo quarto conta com uma cama de solteiro.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Rio do Rastro Eco Resort
